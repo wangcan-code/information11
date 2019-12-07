@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{my_srt}}</title>
+</head>
+<body>
+是否存在bubug：{{config.SQLALCHEMY_DATABASE_URI}}<br/>
+<hr>
+<h2>请求上下文两个变量</h2>
+当前的路由：{{ request.url }}<br/>
+session取值: {{ session.name }}<br/>
+<hr>
+<h2>应用上下文一个变量</h2>
+g变量：{{ g.name }}<br/>
+<hr>
+<h2>两个直接使用的函数</h2>
+<a href="{{ url_for("index") }}">回到首页</a><br/>
+<h5>获取闪现消息</h5>
+{% for message in get_flashed_messages() %}
+    {{ message }}
+{% endfor %}
+
+<hr>
+
+</body>
+</html>

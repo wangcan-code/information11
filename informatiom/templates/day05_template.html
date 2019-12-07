@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ my_str1 }}</title>
+</head>
+<body>
+<h4>你好浪呀 </h4>
+{{ my_list }}<br/>
+{{ my_int }}<br/>
+{{ my_str }}<br/>
+{{ my_dict }}<br/>
+{##}
+<hr/>
+<h5>取值</h5>
+{{ my_dict[name]}}
+{{ my_dict.name }}
+{{ my_list[0] }}
+{{ my_list.3 }}
+<hr/>
+<h6>属性变换</h6>
+{{ 'itheima' | upper }}<br/>
+{{ 'ITHEIMA' | lower }}<br/>
+{{ 'itheima' | reverse }}<br/>
+{#flask特有的#}
+{{ 'itheima' | reverse | upper }}<br/>
+<hr/>
+列表的过滤器：<br/>
+
+{{ my_list | last }}<br/>
+长度：{{ my_list | length }} <br/>
+排序：{{ my_list | sort }} <br/>
+
+<hr>
+
+html的显示<br/>
+
+{{ my_str | escape }}<br/>
+按html显示 {{ my_str }}<br/>
+默认html的字符串会按照原样显示，可以使用 safe 进行标识该字符串是安全的
+如果使用safe标识该字符串是安全的话，那么就会按照html语言格式进行显示或者执行
+
+<br/>
+<hr>
+使用过滤器传参数<br/>
+
+总价：{{ my_dict_list | sum(attribute='price') }}
+
+
+<hr>
+
+列表返转：{{ my_list | lireverse }}<br/>
+{{ my_list }}
+
+
+</body>
+</html>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2707a5cb-164f-4659-b23a-09c6d06f26c0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UPrMHSeyC4Fc6y9Oav1GTlKMvK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="redshift&#10;mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../informatiom" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.templateLanguages.PyTemplateLanguageModulesConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/item_1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.demo1_redis">
+    <configuration name="day01_bookDemo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask_items" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/item_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/item_1/day01_bookDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="day02_manytomany" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask_items" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/item_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/item_1/day02_manytomany.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="demo1_redis" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask_items" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/demo1_redis.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask_items" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="order" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="flask_items" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/order.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.demo1_redis" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.order" />
+        <item itemvalue="Python.day02_manytomany" />
+        <item itemvalue="Python.day01_bookDemo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.18564357" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@4db1726d" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2707a5cb-164f-4659-b23a-09c6d06f26c0" name="Default Changelist" comment="" />
+      <created>1575269021902</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575269021902</updated>
+      <workItem from="1575269025075" duration="1946000" />
+      <workItem from="1575443381709" duration="1403000" />
+      <workItem from="1575444987723" duration="9010000" />
+      <workItem from="1575512997365" duration="9317000" />
+      <workItem from="1575530402532" duration="2294000" />
+      <workItem from="1575553789859" duration="57000" />
+      <workItem from="1575603526530" duration="6928000" />
+      <workItem from="1575696496679" duration="2937000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="448" y="93" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1575610379055">
+      <screen x="67" y="27" width="1851" height="825" />
+    </state>
+    <state x="334" y="88" width="851" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1295.749@67.27.1295.749" timestamp="1575445854030" />
+    <state x="447" y="93" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1847.821@67.27.1847.821" timestamp="1575448448474" />
+    <state x="448" y="93" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1851.825@67.27.1851.825" timestamp="1575610379055" />
+    <state x="449" y="119" width="800" height="677" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1575445972801" />
+    <state width="254" height="195" key="DatabaseViewActions_Filter" timestamp="1575446095386">
+      <screen x="67" y="27" width="1847" height="821" />
+    </state>
+    <state width="254" height="195" key="DatabaseViewActions_Filter/67.27.1847.821@67.27.1847.821" timestamp="1575446095386" />
+    <state x="773" y="194" width="424" height="484" key="FileChooserDialogImpl" timestamp="1575514606837">
+      <screen x="67" y="27" width="1847" height="821" />
+    </state>
+    <state x="773" y="194" width="424" height="484" key="FileChooserDialogImpl/67.27.1847.821@67.27.1847.821" timestamp="1575514606837" />
+    <state width="1797" height="216" key="GridCell.Tab.0.bottom" timestamp="1575701443099">
+      <screen x="67" y="27" width="1851" height="825" />
+    </state>
+    <state width="1241" height="189" key="GridCell.Tab.0.bottom/67.27.1295.749@67.27.1295.749" timestamp="1575448582698" />
+    <state width="1793" height="215" key="GridCell.Tab.0.bottom/67.27.1847.821@67.27.1847.821" timestamp="1575545414875" />
+    <state width="1797" height="216" key="GridCell.Tab.0.bottom/67.27.1851.825@67.27.1851.825" timestamp="1575701443099" />
+    <state width="1797" height="216" key="GridCell.Tab.0.center" timestamp="1575701443099">
+      <screen x="67" y="27" width="1851" height="825" />
+    </state>
+    <state width="1241" height="189" key="GridCell.Tab.0.center/67.27.1295.749@67.27.1295.749" timestamp="1575448582698" />
+    <state width="1793" height="215" key="GridCell.Tab.0.center/67.27.1847.821@67.27.1847.821" timestamp="1575545414875" />
+    <state width="1797" height="216" key="GridCell.Tab.0.center/67.27.1851.825@67.27.1851.825" timestamp="1575701443099" />
+    <state width="1797" height="216" key="GridCell.Tab.0.left" timestamp="1575701443099">
+      <screen x="67" y="27" width="1851" height="825" />
+    </state>
+    <state width="1241" height="189" key="GridCell.Tab.0.left/67.27.1295.749@67.27.1295.749" timestamp="1575448582698" />
+    <state width="1793" height="215" key="GridCell.Tab.0.left/67.27.1847.821@67.27.1847.821" timestamp="1575545414874" />
+    <state width="1797" height="216" key="GridCell.Tab.0.left/67.27.1851.825@67.27.1851.825" timestamp="1575701443099" />
+    <state width="1797" height="216" key="GridCell.Tab.0.right" timestamp="1575701443099">
+      <screen x="67" y="27" width="1851" height="825" />
+    </state>
+    <state width="1241" height="189" key="GridCell.Tab.0.right/67.27.1295.749@67.27.1295.749" timestamp="1575448582698" />
+    <state width="1793" height="215" key="GridCell.Tab.0.right/67.27.1847.821@67.27.1847.821" timestamp="1575545414875" />
+    <state width="1797" height="216" key="GridCell.Tab.0.right/67.27.1851.825@67.27.1851.825" timestamp="1575701443099" />
+    <state width="1793" height="236" key="GridCell.Tab.1.bottom" timestamp="1575450918569">
+      <screen x="67" y="27" width="1847" height="821" />
+    </state>
+    <state width="1793" height="236" key="GridCell.Tab.1.bottom/67.27.1847.821@67.27.1847.821" timestamp="1575450918569" />
+    <state width="1793" height="236" key="GridCell.Tab.1.center" timestamp="1575450918569">
+      <screen x="67" y="27" width="1847" height="821" />
+    </state>
+    <state width="1793" height="236" key="GridCell.Tab.1.center/67.27.1847.821@67.27.1847.821" timestamp="1575450918569" />
+    <state width="1793" height="236" key="GridCell.Tab.1.left" timestamp="1575450918568">
+      <screen x="67" y="27" width="1847" height="821" />
+    </state>
+    <state width="1793" height="236" key="GridCell.Tab.1.left/67.27.1847.821@67.27.1847.821" timestamp="1575450918568" />
+    <state width="1793" height="236" key="GridCell.Tab.1.right" timestamp="1575450918569">
+      <screen x="67" y="27" width="1847" height="821" />
+    </state>
+    <state width="1793" height="236" key="GridCell.Tab.1.right/67.27.1847.821@67.27.1847.821" timestamp="1575450918569" />
+    <state width="332" height="606" key="HiddenNamespacesPopup" timestamp="1575445858162">
+      <screen x="67" y="27" width="1295" height="749" />
+    </state>
+    <state width="332" height="606" key="HiddenNamespacesPopup/67.27.1295.749@67.27.1295.749" timestamp="1575445858162" />
+    <state x="472" y="71" key="SettingsEditor" timestamp="1575451232615">
+      <screen x="67" y="27" width="1847" height="821" />
+    </state>
+    <state x="472" y="71" key="SettingsEditor/67.27.1847.821@67.27.1847.821" timestamp="1575451232615" />
+    <state x="646" y="265" key="com.intellij.ide.util.TipDialog" timestamp="1575696497244">
+      <screen x="67" y="27" width="1851" height="825" />
+    </state>
+    <state x="645" y="264" key="com.intellij.ide.util.TipDialog/67.27.1847.821@67.27.1847.821" timestamp="1575553790330" />
+    <state x="646" y="265" key="com.intellij.ide.util.TipDialog/67.27.1851.825@67.27.1851.825" timestamp="1575696497244" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/flask_items$order.coverage" NAME="order Coverage Results" MODIFIED="1575608300132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask_items$demo1_redis.coverage" NAME="demo1_redis Coverage Results" MODIFIED="1575701440486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask_items$main.coverage" NAME="main Coverage Results" MODIFIED="1575610423980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/flask_items$day02_manytomany.coverage" NAME="day02_manytomany Coverage Results" MODIFIED="1575545309977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/item_1" />
+    <SUITE FILE_PATH="coverage/flask_items$day01_bookDemo.coverage" NAME="day01_bookDemo Coverage Results" MODIFIED="1575515524013" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/item_1" />
+  </component>
+</project>

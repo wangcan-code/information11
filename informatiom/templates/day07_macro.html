@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{my_srt}}</title>
+</head>
+<body>
+<h1>导入宏之前的代码</h1>
+<hr>
+<form>
+    <label>用户名：</label><input type="text" name="username"><br/>
+    <label>身份证号：</label><input type="text" name="idcard"><br/>
+    <label>密码：</label><input type="password" name="password"><br/>
+    <label>确认密码：</label><input type="password" name="password2"><br/>
+    <input type="submit" value="注册">
+</form>
+<hr>
+<h1>使用宏的代码</h1>
+{% macro input(label='',type="test",value='',name='')%}
+    <label>{{ label }}：</label><input type="{{ type }}" name="{{ name }}"><br/>
+{% endmacro %}
+
+<form>
+    {{ input("用户名",name="username") }}
+    {{ input("身份证号", name="idcard") }}
+    {{ input("密码",name="password") }}
+    {{ input("确认密码",name="password2") }}
+    {{ input(type="submit", value="注册") }}
+
+</form>
+
+<hr>
+<h1>导入宏代码</h1>
+{% import'macro.html'as func %}
+<form>
+    {{ func.input("用户名",name="username") }}
+    {{ func.input("身份证号", name="idcard") }}
+    {{ func.input("密码",name="password") }}
+    {{ func.input("确认密码",name="password2") }}
+    {{ func.input(type='submit', value='') }}
+</form>
+<hr>
+</body>
+</html>
